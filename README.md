@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+Machine Learning and Deep Learning with Python
 ================
 
 ### posit::conf 2023
